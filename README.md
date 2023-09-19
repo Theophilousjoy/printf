@@ -1,1 +1,1 @@
-A group project on printf
+First group project, cohort 15
